@@ -1,4 +1,4 @@
-![Screenshot 2023-12-17 at 10 43 05](https://github.com/Concepto-AI/.github/assets/64415791/02401255-11ce-44ed-bba3-d7594aa0ae81)
+![Concepto AI](https://github.com/Concepto-AI/.github/assets/64415791/02401255-11ce-44ed-bba3-d7594aa0ae81)
 
 ## Useful Info
 
@@ -7,4 +7,13 @@
 - 👩‍💻 Useful resources - you can get started straight away and start building [today](https://concepto-docs.vercel.app/about/contributing/)
 - 📧 Want to get in touch? Check out our [Press](https://concepto-docs.vercel.app/about/press/) page.
 
-![Screenshot 2023-12-17 at 10 44 17](https://github.com/Concepto-AI/.github/assets/64415791/bd398292-ec61-4be8-b644-f1aff2d0281d)
+## Maintainers
+- [leowilkin](https://github.com/leowilkin)
+- [Mttgo](https://github.com/Mttgo)
+
+## Contact Us
+
+`leo@wilkin.studio`
+
+## Features
+![Screenshot 2023-12-17 at 12 52 07](https://github.com/Concepto-AI/.github/assets/64415791/afcace6e-68c8-494d-ae08-19320b60f7fd)

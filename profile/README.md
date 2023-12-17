@@ -13,7 +13,7 @@
 
 ## Contact Us
 
-`leo@wilkin.studio`
+`concepto@wilkin.studio`
 
 ## Features
 ![Screenshot 2023-12-17 at 12 52 07](https://github.com/Concepto-AI/.github/assets/64415791/afcace6e-68c8-494d-ae08-19320b60f7fd)

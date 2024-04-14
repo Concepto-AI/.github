@@ -5,7 +5,7 @@
 - 🙋‍♀️ A short introduction - Concepto AI is building the future of website devlopment using Artificial Intelligence.
 - 🌈 Contribution guidelines - awesome, we'd love to have you. Go ahead and check out [our contributing docs](https://docs.conceptoai.app/info/contributing/)
 - 👩‍💻 Useful resources - you can get started straight away and start building [today](https://docs.conceptoai.app/info/contributing/)
-- 📧 Want to get in touch? Check out our [Press](https://docs.conceptoai.app/about/press/) page.
+- 📧 Want to get in touch? Check out our [Press](https://docs.conceptoai.app/info/press/) page.
 
 ## Maintainers
 - [leowilkin](https://github.com/leowilkin)
